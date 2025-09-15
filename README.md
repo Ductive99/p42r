@@ -12,3 +12,4 @@ Run commands, take screenshots, restart or kill programs, and more — all throu
 - 🔌 Modular architecture: easily add new platforms and commands.
 
 ---
+### Work in progress
